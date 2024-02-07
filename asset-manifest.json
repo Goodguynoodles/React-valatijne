@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.00e5ff9b.css",
-    "main.js": "/react-gh-pages/static/js/main.28303bd5.js",
-    "static/js/592.7f72a991.chunk.js": "/react-gh-pages/static/js/592.7f72a991.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.00e5ff9b.css.map": "/react-gh-pages/static/css/main.00e5ff9b.css.map",
-    "main.28303bd5.js.map": "/react-gh-pages/static/js/main.28303bd5.js.map",
-    "592.7f72a991.chunk.js.map": "/react-gh-pages/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/React-valatijne/static/css/main.00e5ff9b.css",
+    "main.js": "/React-valatijne/static/js/main.ba456d6c.js",
+    "static/js/592.7f72a991.chunk.js": "/React-valatijne/static/js/592.7f72a991.chunk.js",
+    "static/media/logo.svg": "/React-valatijne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-valatijne/index.html",
+    "main.00e5ff9b.css.map": "/React-valatijne/static/css/main.00e5ff9b.css.map",
+    "main.ba456d6c.js.map": "/React-valatijne/static/js/main.ba456d6c.js.map",
+    "592.7f72a991.chunk.js.map": "/React-valatijne/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00e5ff9b.css",
-    "static/js/main.28303bd5.js"
+    "static/js/main.ba456d6c.js"
   ]
 }
